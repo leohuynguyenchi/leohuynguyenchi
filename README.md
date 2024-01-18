@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 At the moment, I have experienced in web development with Siemens Digital Industry Software using HTML, CSS, JavaScript.
+- 🔭 At the moment, I have experienced in web development with Siemens Digital Industry Software using HTML, CSS, JavaScript. I'm working towards my goal of becoming a Full Stack Software Developer.
 - 🌱 I'm currently learning SQL and MongoDB to get familiar with database development.
 - 👯 I'm looking to collaborate on any software development field.
 - 😄 Application and website developments are 2 of my favorites. I'm also open to learn more about any kinds of software development.
