@@ -1,9 +1,10 @@
 ### Hi there 👋
-- 🔭 I have experienced web development with Siemens Digital Industry Software using HTML, CSS, JavaScript. I'm working towards becoming a Full-stack software developer.
+- 🔭 I have experienced web development with Siemens Digital Industry Software using HTML, CSS, JavaScript. I'm passionate in becoming a Full-stack software developer.
 - 🌱 I'm currently learning SQL and MongoDB to get familiar with database development.
 - 👯 I'm looking to collaborate on any software development field.
 - 😄 Application and website development are two of my favorite fields. I'm also open to learn any kinds of software development.
 - 📫 How to reach me: nguye2cy@mail.uc.edu / nguyenchihuy10@gmail.com
+- ⚡Fun fact: I play piano and guitar. Love outdoor activities and sportings.
 <!--
 **leohuynguyenchi/leohuynguyenchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
