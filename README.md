@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I have experienced web development with Siemens Digital Industry Software using HTML, CSS, JavaScript.
-- 🌱 I'm currently practicing SQL to enhance database development skill.
+- 🔭 I have experienced Software Development Life Cycle with Siemens Digital Industry Software.
+- 🌱 I'm currently practicing Software Engineering skills such as C++, C#, Rust.
 - 😄 Interested in Web, Software, Application, and AI development.
 - 📫 How to reach me: nguye2cy@mail.uc.edu / nguyenchihuy10@gmail.com.
 - ⚡ Fun fact: I play piano and guitar. Love outdoor activities, sportings, and reading TLDRs.
