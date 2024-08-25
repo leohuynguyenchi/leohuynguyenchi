@@ -3,7 +3,7 @@
 - 🌱 I'm currently practicing Software Engineering skills such as C++, C#, Rust.
 - 😄 Interested in Web, Software, Application, and AI development.
 - 📫 How to reach me: nguye2cy@mail.uc.edu / nguyenchihuy10@gmail.com.
-- ⚡ Fun fact: I play piano and guitar. Love outdoor activities, sportings, and reading.
+- ⚡ Fun fact: I play piano and guitar. Love outdoor activities, sportings, and Netflix.
 <!--
 **leohuynguyenchi/leohuynguyenchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
